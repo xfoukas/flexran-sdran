@@ -1,0 +1,6 @@
+[submodule "flexran-rtc"]
+	path = flexran-rtc
+	url = https://github.com/fon/flexran-rtc.git
+[submodule "flexran-agent"]
+	path = flexran-agent
+	url = https://github.com/fon/flexran-agent.git
